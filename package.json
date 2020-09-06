@@ -1,0 +1,36 @@
+{
+  "name": "html-template-ready",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rilong/html-template-ready.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rilong/html-template-ready/issues"
+  },
+  "homepage": "https://github.com/Rilong/html-template-ready#readme",
+  "browserslist": {
+    "production": [
+      "last 10 versions"
+    ],
+    "development": [
+      "last 10 versions"
+    ]
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0"
+  }
+}
